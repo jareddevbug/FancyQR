@@ -36,6 +36,9 @@ body {
   max-width: 600px;
   min-width: 500px;
 }
+.text-center{
+  color: white;
+}
 
 /* h1 {
   font-size: 3.2em;
